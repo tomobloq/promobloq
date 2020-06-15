@@ -41,7 +41,8 @@ mix.browserSync({
 	files: [
         '**/*.html',
         '**/*.js',
-        '**/*.css'
+        '**/*.css',
+        '**/*.pdf'
     ]
 });
 
